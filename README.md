@@ -1,2 +1,2 @@
-# SportsDataGuy
-Code for analysis done on airballanalytics.com
+# Air Baller Analytics
+Code for analysis done on airballeranalytics.com
